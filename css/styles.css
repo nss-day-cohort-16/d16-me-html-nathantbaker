@@ -1,0 +1,23 @@
+/* ============================================================
+   Project: HTML Portfolio
+   Author:  Nathan T. Baker
+   Created: 10/7/2016
+   Notes:   I did this while in Nashville Software School.
+   ============================================================ */
+
+/* ===GLOBAL=== */
+
+#wrapper {
+  margin: 0 auto;
+  width: 200px;
+}
+
+h1 {
+  color: red;
+}
+
+/* ===PRIMARY=== */
+/* ===HEADER=== */
+
+/* ===SIDEBAR=== */
+/* ===FOOTER=== */
